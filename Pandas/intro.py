@@ -10,11 +10,11 @@ df = pd.DataFrame(data)
 print(df)
 
 
-# Read from CSV
-df = pd.read_csv('data.csv')
+# # Read from CSV
+# df = pd.read_csv('data.csv')
 
-# Write to CSV
-df.to_csv('output.csv', index=False)
+# # Write to CSV
+# df.to_csv('output.csv', index=False)
 
 
 # View top rows
