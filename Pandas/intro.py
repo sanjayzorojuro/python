@@ -15,6 +15,8 @@ print(df)
 
 # # Write to CSV
 # df.to_csv('output.csv', index=False)
+# the current csv file used in this code is not uploded and insted of that you can use any other csv file to read and write.
+
 
 
 # View top rows
