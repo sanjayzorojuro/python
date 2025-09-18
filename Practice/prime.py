@@ -1,5 +1,7 @@
 import math
 
+
+#logic function.
 def is_prime(n):
     if n<=0:
         return False
@@ -12,6 +14,8 @@ def is_prime(n):
             return False
     return True
 
+
+#function to check and append and return if true.
 def gen_prime(start,end):
     prime=[]
     for n in range(start,end):
@@ -21,6 +25,7 @@ def gen_prime(start,end):
 
 start=int(input("Enter the starting number:"))
 end=int(input("Enter the ending number:"))
-print(gen_prime(start,end))
+print(gen_prime(start,end))  
+
 
 
