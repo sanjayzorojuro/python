@@ -9,7 +9,7 @@ def missing(n):
         ele=int(input("Enter n-1 elements missing: "))
         lst.append(ele)
     add1=n*(n+1)/2
-    add2=sum(lst)
+    add2=sum(lst) 
     return(add1-add2)
         
 
@@ -17,5 +17,6 @@ def missing(n):
 n=int(input("Enter the length of the element:"))
 print(missing(n))
  
+
 
 
