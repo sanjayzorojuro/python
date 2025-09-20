@@ -10,13 +10,14 @@ def missing(n):
         lst.append(ele)
     add1=n*(n+1)/2
     add2=sum(lst) 
-    return(add1-add2)
+    return(add1-add2) 
         
 
 
 n=int(input("Enter the length of the element:"))
 print(missing(n))
  
+
 
 
 
