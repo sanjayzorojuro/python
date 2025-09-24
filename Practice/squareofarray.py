@@ -1,3 +1,5 @@
+#this code is to find the square of a listand then sort them in asscending order.
+
 class Solution():
     def sortedSquares(self, nums):
         sq=[]
@@ -16,4 +18,5 @@ nums=[-2,-3,4,6,7]
 ob1=Solution()
  
 print(ob1.sortedSquares(nums))
+
 
