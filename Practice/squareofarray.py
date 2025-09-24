@@ -14,4 +14,5 @@ class Solution():
 
 nums=[-2,-3,4,6,7]
 ob1=Solution()
+ 
 print(ob1.sortedSquares(nums))
