@@ -12,7 +12,8 @@ class Solution():
             sq[i],sq[min]=sq[min],sq[i]
         return sq
 
-nums=[-2,-3,4,6,7]
+nums=[-2,-3,4,6,7] 
 ob1=Solution()
  
 print(ob1.sortedSquares(nums))
+
