@@ -4,7 +4,7 @@ AI ML
 
 2.num py:
   ndarrays
-  faltten arry 
+  faltten arry  
  
 3.pandas:
   details important 
@@ -27,4 +27,5 @@ AI ML
 
 
 7:tenserflow: 
+
 
