@@ -7,7 +7,7 @@ AI ML
   faltten arry 
 
 3.pandas:
-  details important
+  details important 
 
 
 3.5 projects based on 2 and 3
@@ -24,5 +24,6 @@ AI ML
 5.5 projects based on sikit 
 
 6.clustring:
+
 
 7:tenserflow: 
