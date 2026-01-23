@@ -28,7 +28,7 @@ while True:
         print("No camera")
         break
 
-    cv2.imshow("Cam",img2)
+    cv2.imshow("Cam",img2)  
 
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
