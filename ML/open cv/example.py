@@ -22,7 +22,7 @@ vid.set(10,100)   #brightness is 10
 
 # to ruun the webcam or video we use while loop
 while True:
-    success , img2 = vid.read()
+    success , img2 = vid.read()    
 
     if not success:
         print("No camera")
