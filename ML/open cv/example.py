@@ -13,7 +13,7 @@ vid = cv2.VideoCapture(1, cv2.CAP_DSHOW)
 for i in range(5):
     vid = cv2.VideoCapture(i, cv2.CAP_DSHOW)
     print(f"camera {i}",vid.isOpened())
-    vid.release()
+    vid.release() 
 
 
 vid.set(3,640)   #width function number is 3
