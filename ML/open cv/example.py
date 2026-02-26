@@ -25,7 +25,7 @@ while True:
     success , img2 = vid.read()    
 
     if not success:
-        print("No camera")
+        print("No camera")         
         break
 
     cv2.imshow("Cam",img2)  
